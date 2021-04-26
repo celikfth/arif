@@ -1,0 +1,339 @@
+@font-face {
+  font-family: 'computer';
+  src:  url('fonts/computer8e15.eot?pkh0gr');
+  src:  url('fonts/computer8e15.eot?pkh0gr#iefix') format('embedded-opentype'),
+    url('fonts/computer8e15.ttf?pkh0gr') format('truetype'),
+    url('fonts/computer8e15.woff?pkh0gr') format('woff'),
+    url('fonts/computer8e15.svg?pkh0gr#computer') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'computer' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-arrow-triangle:before {
+  content: "\e967";
+}
+.icon-cancel:before {
+  content: "\e929";
+}
+.icon-search:before {
+  content: "\e966";
+}
+.icon-smartphone:before {
+  content: "\e965";
+}
+.icon-tablet:before {
+  content: "\e964";
+}
+.icon-monitor:before {
+  content: "\e963";
+}
+.icon-watch:before {
+  content: "\e962";
+}
+.icon-placeholder:before {
+  content: "\e961";
+}
+.icon-payment:before {
+  content: "\e960";
+}
+.icon-delivery-truck:before {
+  content: "\e95f";
+}
+.icon-hot-tea:before {
+  content: "\e95e";
+}
+.icon-shopping-list:before {
+  content: "\e942";
+}
+.icon-package:before {
+  content: "\e943";
+}
+.icon-reduce:before {
+  content: "\e944";
+}
+.icon-smartphone-1:before {
+  content: "\e945";
+}
+.icon-optical-drive:before {
+  content: "\e946";
+}
+.icon-mouse-1:before {
+  content: "\e947";
+}
+.icon-microphone:before {
+  content: "\e948";
+}
+.icon-wiping:before {
+  content: "\e949";
+}
+.icon-volume:before {
+  content: "\e94a";
+}
+.icon-power-button:before {
+  content: "\e94b";
+}
+.icon-screen:before {
+  content: "\e94c";
+}
+.icon-mail-black-envelope-symbol:before {
+  content: "\e94d";
+}
+.icon-plug:before {
+  content: "\e94e";
+}
+.icon-payment-method:before {
+  content: "\e94f";
+}
+.icon-photo-camera:before {
+  content: "\e950";
+}
+.icon-touch:before {
+  content: "\e951";
+}
+.icon-battery-status:before {
+  content: "\e952";
+}
+.icon-calendar-1:before {
+  content: "\e953";
+}
+.icon-checked:before {
+  content: "\e954";
+}
+.icon-big-screen:before {
+  content: "\e955";
+}
+.icon-calendar-2:before {
+  content: "\e956";
+}
+.icon-diagnostic:before {
+  content: "\e957";
+}
+.icon-check:before {
+  content: "\e958";
+}
+.icon-hdmi:before {
+  content: "\e959";
+}
+.icon-settings:before {
+  content: "\e95a";
+}
+.icon-keyboard:before {
+  content: "\e95b";
+}
+.icon-hdd:before {
+  content: "\e95c";
+}
+.icon-fan:before {
+  content: "\e95d";
+}
+
+.icon-mail-black:before {
+  content: "\e940";
+}
+.icon-mouse-scroll:before {
+  content: "\e941";
+}
+.icon-apple:before {
+  content: "\e93f";
+}
+.icon-notebook-and-mouse-cursor:before {
+  content: "\e93e";
+}
+.icon-computer-with-monitor:before {
+  content: "\e93d";
+}
+.icon-software:before {
+  content: "\e93c";
+}
+.icon-computer-fan:before {
+  content: "\e93b";
+}
+.icon-data-network:before {
+  content: "\e93a";
+}
+.icon-speech-bubble:before {
+  content: "\e939";
+}
+.icon-same-day-delivery:before {
+  content: "\e92e";
+}
+.icon-shopping-cart:before {
+  content: "\e92f";
+}
+.icon-cancel-music:before {
+  content: "\e930";
+}
+.icon-back:before {
+  content: "\e931";
+}
+.icon-back2:before {
+  content: "\e932";
+}
+.icon-repair-1:before {
+  content: "\e933";
+}
+.icon-cloud-backup-up-arrow:before {
+  content: "\e934";
+}
+.icon-wifi:before {
+  content: "\e935";
+}
+.icon-wifi1:before {
+  content: "\e936";
+}
+.icon-lifesaver:before {
+  content: "\e937";
+}
+.icon-calendar:before {
+  content: "\e938";
+}
+.icon-arrow-left:before {
+  content: "\e927";
+}
+.icon-arrow-right:before {
+  content: "\e928";
+}
+.icon-facebook:before {
+  content: "\e900";
+}
+.icon-google-hangouts-logo:before {
+  content: "\e901";
+}
+.icon-google-plus:before {
+  content: "\e902";
+}
+.icon-hand-shake:before {
+  content: "\e903";
+}
+.icon-hard-disk:before {
+  content: "\e904";
+}
+.icon-instagram:before {
+  content: "\e905";
+}
+.icon-keyboard-right-arrow-button:before {
+  content: "\e906";
+}
+.icon-linkedin:before {
+  content: "\e907";
+}
+.icon-manager:before {
+  content: "\e908";
+}
+.icon-phone-receiver:before {
+  content: "\e909";
+}
+.icon-pinterest:before {
+  content: "\e90a";
+}
+.icon-placeholder-for-map:before {
+  content: "\e90b";
+}
+.icon-prize-badge-with-star-and-ribbon:before {
+  content: "\e90c";
+}
+.icon-quotes:before {
+  content: "\e90d";
+}
+.icon-repair:before {
+  content: "\e90e";
+}
+.icon-signs:before {
+  content: "\e90f";
+}
+.icon-star:before {
+  content: "\e910";
+}
+.icon-stethoscope:before {
+  content: "\e911";
+}
+.icon-technology:before {
+  content: "\e912";
+}
+.icon-tumblr:before {
+  content: "\e913";
+}
+.icon-twitter:before {
+  content: "\e914";
+}
+.icon-vimeo:before {
+  content: "\e915";
+}
+.icon-viruses:before {
+  content: "\e916";
+}
+.icon-arrow:before {
+  content: "\e917";
+}
+.icon-badge-with-a-star:before {
+  content: "\e918";
+}
+.icon-chevron-arrow-up:before {
+  content: "\e919";
+}
+.icon-clock:before {
+  content: "\e91a";
+}
+.icon-diag:before {
+  content: "\e91b";
+}
+.icon-double-angle-pointing-to-right:before {
+  content: "\e91c";
+}
+.icon-talk:before {
+  content: "\e91d";
+}
+.icon-music-social-group:before {
+  content: "\e91e";
+}
+.icon-icon:before {
+  content: "\e91f";
+}
+.icon-wall-clock:before {
+  content: "\e920";
+}
+.icon-menu:before {
+  content: "\e921";
+}
+.icon-file:before {
+  content: "\e922";
+}
+.icon-upgrade:before {
+  content: "\e923";
+}
+.icon-updated-security-for-protection-on-internet:before {
+  content: "\e924";
+}
+.icon-videocard:before {
+  content: "\e925";
+}
+.icon-verification-mark:before {
+  content: "\e926";
+}
+.icon-angle-down:before {
+  content: "\e92a";
+}
+.icon-angle-up:before {
+  content: "\e92b";
+}
+.icon-angle-right:before {
+  content: "\e92c";
+}
+.icon-angle-left:before {
+  content: "\e92d";
+}

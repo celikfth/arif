@@ -1,0 +1,491 @@
+    body{
+    font-family:Open+Sans;
+font-size:15px;
+line-height:22px;
+    }
+            /*--------   2.2 Header          --------*/
+        body.home header.page-header {
+        position: absolute;
+        top: 0;
+        background: none;
+        }
+        .home .block {
+        /* margin-bottom: 0; */
+        }
+        @media (min-width: 992px) {
+        body:not(.home) header.page-header {
+        margin-bottom: 38px;
+        }
+        body:not(.home) header.page-header #slidemenu {
+        margin-bottom: -38px;
+        }
+        }
+        header.page-header {
+        position: relative;
+        width: 100%;
+        background: url(../../../../../../../192.168.0.110/wp-themes/computer-repair/wp-content/themes/computer-repair/images/header-bg.jpg) no-repeat center top;
+        z-index: 1000;
+        padding: 0;
+        margin: 0;
+        border: 0;
+        font-weight: normal;
+        }
+        header .header-top {
+        padding: 20px 0;
+        }
+        a{  }
+    a:hover{  }
+    .computer_repair_wc_products_tab.vc_tta.vc_tta-style-classic .vc_tta-tab a{ font-family:Open+Sans;
+ }
+    body.color-turquoise .comment-list .comment  a.comment-reply-link:hover, 
+    body.color-turquoise .edit-link a:hover{
+    background-color: #00bcd4;  
+    }
+        /* Section Color */
+    body.color-turquoise .vc_custom_1494326401625,
+    body.color-turquoise .service-list li a:hover, 
+    body.color-turquoise .service-list li > span:hover{
+        background-color:#00bcd4 !important;
+    }
+    body.color-turquoise .back-to-top a,
+    body.color-turquoise .footer-links a:hover{
+       color:#00bcd4;
+    }
+    body.color-turquoise{
+        color:#292929;
+    }
+    body.color-turquoise .h-box-text,
+    body.color-turquoise .contact-box-row,
+    body.color-turquoise .posted-on a,
+    body.color-turquoise .author.vcard a,
+    body.color-turquoise .testimonials-single{
+        color:#292929;
+    }
+    body.color-turquoise .text-icon:hover .icon-wrapper span i.icon{
+      color: #00bcd4;
+    }
+    body.color-turquoise h1, 
+    body.color-turquoise h2, 
+    body.color-turquoise h3, 
+    body.color-turquoise h4, 
+    body.color-turquoise h5, 
+    body.color-turquoise h6, 
+    body.color-turquoise h2.h-lg,
+    body.color-turquoise .h-box-title{
+        color:#292929;
+    }
+    body.color-turquoise .block.bg-1 h1, 
+    body.color-turquoise .block.bg-2 h1, 
+    body.color-turquoise .block.bg-1 h2, 
+    body.color-turquoise .block.bg-2 h2, 
+    body.color-turquoise .block.bg-1 h3, 
+    body.color-turquoise .block.bg-2 h3,
+    body.color-turquoise .category-block .caption .name.white,
+    body.color-turquoise .category-block .caption p.white,
+    body.color-turquoise .service-list li a:hover, 
+    body.color-turquoise .service-list li > span:hover{
+        color:#ffffff;
+    }
+    body.color-turquoise .text-icon .title,
+    body.color-turquoise .text-icon-squared:hover .title,
+    body.color-turquoise .text-icon-squared .read-more,
+    body.color-turquoise .block.bg-1, 
+    body.color-turquoise .block.bg-2,
+    body.color-turquoise .text-icon-squared:hover, 
+    body.color-turquoise .text-icon-squared:hover .read-more{
+        color:#ffffff;
+    }
+    body.color-turquoise .color,
+    body.color-turquoise .category-block .caption .name,
+    body.color-turquoise .tagcloud a:hover, .tags-list a:hover,
+    body.color-turquoise .category-list > li:after,
+    body.color-turquoise .marker-list-sm > li:after,
+    body.color-turquoise .marker-list > li:after,
+    body.color-turquoise .grey-box-icon,
+    body.color-turquoise .text-icon-squared .read-more,
+    body.color-turquoise .marker-list-md > li:after, 
+    body.color-turquoise .marker-list-md-1 > li:after,
+    body.color-turquoise .price-box-price span,
+    body.color-turquoise .calendar .selected, 
+    body.color-turquoise .calendar .selected:hover,
+    body.color-turquoise .side-block .menu.category-list li.current-menu-item a, 
+    body.color-turquoise .navbar-nav > li.current-menu-parent a,
+    body.color-turquoise .category-list > li a:hover{
+        color:#00bcd4;
+    }
+    body.color-turquoise .icon-big .icon,
+    body.color-turquoise .text-icon-squared .icon-big .icon,
+    body.color-turquoise .price-box-icon i,
+    body.color-turquoise .contact-info .icon,
+    body.color-turquoise .contact-box [class*='icon-']{
+       color:#00bcd4;
+    }
+    body.color-turquoise .icon-wrapper span,
+    body.color-turquoise .row-icon-icon i,
+    body.color-turquoise .services-number-span .box-number-icon,
+    body.color-turquoise .services-number-span .row-number-icon{
+     background-color:#00bcd4;
+    }
+    body.color-turquoise .icon-wrapper .icon-hover{
+       background-color:#ffffff;
+    }
+    body.color-turquoise .icon-wrapper span i.icon,
+    body.color-turquoise .row-icon-icon i,
+    body.color-turquoise .services-number-span .box-number-icon,
+    body.color-turquoise .services-number-span .row-number-icon{
+       color:#ffffff;
+    }
+
+    /* Header Color */
+
+    body.color-turquoise header .phone .under-number,
+    body.color-turquoise header .phone .number{
+        color:#ffffff;
+    }
+    body.color-turquoise header .phone .number{
+        background-color:#00bcd4;
+    }
+
+    /* Menu Color*/
+    body.color-turquoise .navbar-nav li.current-menu-item > a,
+    body.color-turquoise .navbar-nav > li > a:hover, 
+    body.color-turquoise .navbar-nav > li > a:focus,
+    body.color-turquoise .navbar-nav > li > a.shadow-effect:hover {
+        color:#00bcd4;
+      }
+    body.color-turquoise .navbar-nav .dropdown .dropdown-menu {
+        border-top:4px solid#00bcd4;
+      }
+
+    body.color-turquoise .navbar-nav .dropdown .dropdown-menu li > a{
+         color:#444444;
+ 
+      }
+
+    /* Slider Color */
+
+    body.color-turquoise #mainSlider .slide-content h3,
+    body.color-turquoise #mainSlider .slide-content h4,
+    body.color-turquoise #mainSlider .slide-content p{
+       color:#ffffff;
+    }
+
+    body.color-turquoise #mainSlider .slide-content h3 span{
+       color:#00bcd4;
+    }
+    
+     /* Button Color */
+    body.color-turquoise .btn,
+    body.color-turquoise .vc_toggle_default.panel-heading1 .vc_toggle_icon,
+    body.color-turquoise .vc_toggle_color_white.vc_toggle_default .vc_toggle_title:hover .vc_toggle_icon{
+     color:#ffffff !important;
+     background:#00bcd4 !important;
+    }
+    body.color-turquoise .btn.btn-invert,
+    body.color-turquoise .btn.btn-invert-alt{
+     color:#ffffff;
+     background-color:#444;
+    }
+    body.color-turquoise .btn-invert:hover, 
+    body.color-turquoise .btn-invert.active, 
+    body.color-turquoise .btn-invert:active,
+    body.color-turquoise .btn.btn-invert-alt:hover{
+     color:#ffffff;
+     background-color:#00bcd4;
+    }
+
+	body.color-turquoise .btn.btn-white {
+		color: #000000 !important;
+		background-color: #ffffff !important;
+	}
+
+    input.wpcf7-submit {
+       background-color: #00bcd4;
+       color:  #fff; 
+    }       
+    input.wpcf7-submit:hover {
+       background: #444;
+       color: #fff;
+    }
+       
+    /* Button Color End */
+
+    /* Other Section Color*/
+
+    body.color-turquoise .testimonials-item .inside:before,
+    body.color-turquoise .testimonials-item .inside .rating i,
+    body.color-turquoise .testimonials-item .inside .username,.rating i,
+    body.color-turquoise .testimonials-single .username,
+    body.color-turquoise .slick-prev:hover:before, 
+    body.color-turquoise .slick-next:hover:before{
+         color:#00bcd4;
+    }
+    body.color-turquoise .slick-dots li.slick-active button, 
+    body.color-turquoise .slick-dots li.slick-active button:hover{
+    background-color:#00bcd4;
+    }
+	body.color-turquoise .btn.btn-white:hover {
+		color: #fff !important;
+		background-color: #00bcd4 !important;
+	}
+	body.color-turquoise .btn.btn-invert {
+		color: #ffffff !important;
+		background-color: #444444 !important;
+	}
+	body.color-turquoise .btn.btn-invert:hover {
+		background-color: #00bcd4 !important;
+	}
+    body.color-turquoise .testimonials-item .inside h5,
+    body.color-turquoise .testimonials-item .inside{
+         color:#292929;
+    }
+    body.color-turquoise .hexagon-icon i{
+      color:#000000;
+      background-color:#ffffff;
+      border:4px solid#00bcd4;
+    }
+    body.color-turquoise .hexagon-icon i:hover{
+      color:#ffffff;
+      background-color:#00bcd4;
+    }
+    body.color-turquoise .blog-post .post-title a{
+    color:#444;
+    }
+    body.color-turquoise .blog-post .post-title a:hover,
+    body.color-turquoise .rating i{
+     color:#00bcd4;
+    }
+    /* Other Section Color*/
+    /* Footer Color*/
+    body.color-turquoise .page-footer{
+    background-color:#444444;
+    }
+    body.color-turquoise .page-footer ul.footer-menu li a,
+    body.color-turquoise .page-footer .footer-phone,
+    body.color-turquoise .page-footer,
+    body.color-turquoise .page-footer .social-links ul li a{
+    color:#ffffff;
+    }
+
+
+    /*End Footer Color*/
+   
+   /*Shop Color*/
+
+    body.color-turquoise .title-aside::after{
+       background-color:#00bcd4!important;
+     }
+     body.color-turquoise .woocommerce .category-list > li:after,
+    body.color-turquoise .woocommerce .star-rating span::before{
+       color:#00bcd4!important;
+     }
+    body.color-turquoise header .header-cart:hover a.icon, header .header-cart.opened a.icon {
+        color: #00bcd4 !important;
+    }
+    body.color-turquoise .header-cart .badge{
+        background-color:#00bcd4 !important;
+     }
+
+     body.color-turquoise header .header-cart:hover .badge, 
+    body.color-turquoise header .header-cart.opened .badge{
+       color:#00bcd4 !important;
+       background-color:#ffffff !important;
+     }
+    body.color-turquoise .woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+    body.color-turquoise .woocommerce span.onsale{
+      background-color:#00bcd4 !important;
+    }
+    body.color-turquoise .woocommerce .widget_price_filter .ui-slider .ui-slider-range {
+         background-color:#00bcd4 !important;
+    }
+    body.color-turquoise .woocommerce span.onsale,
+    body.color-turquoise .woocommerce .widget_price_filter .price_slider_amount .button{
+        background:#00bcd4 !important;
+        color:#ffffff;
+    }
+    body.color-turquoise .woocommerce .category-list > li:after, 
+    body.color-turquoise .woocommerce .star-rating span::before {
+        color:#00bcd4 !important;
+    }
+    body.color-turquoise .woocommerce nav.woocommerce-pagination ul li a:focus, 
+    body.color-turquoise .woocommerce nav.woocommerce-pagination ul li a:hover, 
+    body.color-turquoise .woocommerce nav.woocommerce-pagination ul li span.current{
+        background:#00bcd4!important;
+        color:#ffffff!important;
+        border:1px solid #00bcd4 !important;
+    }
+    body.color-turquoise .icon-wrapper span,
+    body.color-turquoise .text-icon:hover .icon-wrapper .icon-hover,
+    body.color-turquoise .person:hover .image img,
+    body.color-turquoise .person:hover .image .hover {
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -ms-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  -webkit-box-shadow: 0 0 0 8px rgba(0, 188, 212, 0.25);
+  -moz-box-shadow: 0 0 0 8px rgba(0, 188, 212, 0.25);
+  box-shadow: 0 0 0 8px rgba(0, 188, 212, 0.25);
+}
+body.color-turquoise .category-block .image_hover.light .btn{
+    background-color: #00bcd4;
+}
+body.color-turquoise .btn.btn-invert-alt{
+    background-color: #00bcd4;
+}
+body.color-turquoise .hexagon-box:before {
+    border-top: solid 2px #00bcd4;
+    border-right: solid 2px #00bcd4;
+}
+body.color-turquoise .hexagon-box {
+    border-left: solid 2px #00bcd4;
+    border-right: solid 2px #00bcd4;
+}
+body.color-turquoise .hexagon-box:after {
+    border-bottom: solid 2px #00bcd4;
+    border-left: solid 2px #00bcd4;
+}
+body.color-turquoise .phone-content-number i,
+body.color-turquoise .computer-faq-text h4:hover,
+body.color-turquoise .social-links.rounded ul.contact-list li a{
+    color:#00bcd4;
+}
+body.color-turquoise .navbar-nav > li > a.shadow-effect:hover {
+    -webkit-text-shadow: 0 0px 0px #00bcd4;
+    -moz-text-shadow: 0 0px 0px #00bcd4;
+    -ms-text-shadow: 0 0px 0px #00bcd4;
+    -o-text-shadow: 0 0px 0px #00bcd4;
+    text-shadow: 0 0px 0px #00bcd4;
+}
+    body.color-turquoise.woocommerce nav.woocommerce-pagination ul li a:focus, 
+    body.color-turquoise.woocommerce nav.woocommerce-pagination ul li a:hover, 
+    body.color-turquoise.woocommerce nav.woocommerce-pagination ul li span.current{
+        background:#00bcd4 !important;
+        border:1px solid #00bcd4 !important;
+    }
+    body.color-turquoise.woocommerce .widget_price_filter .ui-slider .ui-slider-range,
+    body.color-turquoise.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+    body.color-turquoise.woocommerce .widget_price_filter .price_slider_amount .button,
+    body.color-turquoise.woocommerce span.onsale,
+    body.color-turquoise.woocommerce .wc-tabs > li > a::after{
+            background-color: #00bcd4;
+    }
+    body.color-turquoise.woocommerce .star-rating span::before,
+    body.color-turquoise.woocommerce .tabs.wc-tabs li.active a{
+        color:#00bcd4 !important;
+    }
+    body.color-turquoise .header-cart-dropdown{
+        border-top: 4px solid #00bcd4;
+    }
+    body.color-turquoise .btn.btn-invert-alt:hover{
+         background-color: #fff;
+         color:#444;
+    }
+    body.color-turquoise .pagination .nav-links .page-numbers.current,
+    body.color-turquoise .pagination .nav-links .page-numbers:hover{
+       background-color: #00bcd4;
+       color:#fff;
+       border: 1px solid #00bcd4 !important;
+   }
+   body.color-turquoise .calendar .selected{
+      color: #fff !important;
+      background:#00bcd4;
+    }
+    body.color-turquoise .page-footer .footer-phone .number{
+      -webkit-text-fill-color:#00bcd4;
+   }
+   body.color-turquoise .category-block .image{
+       background-color: #00bcd4;
+   }
+    body.color-turquoise .category-block .image_hover.color {
+        background: #00bcd4;
+    }
+	body.color-turquoise .row-icon:hover .row-icon-text, 
+	body.color-turquoise .grey-box-inside:hover .grey-box-title, 
+	body.color-turquoise .computer-faq-text h4:hover {
+		color: #00bcd4;
+	}
+
+
+    @media (min-width: 992px){
+        body.color-turquoise .navbar-nav li.current-menu-item > a {
+            border-bottom-color: #00bcd4;
+        }
+    }
+    body.color-turquoise header .header-top-info [class*='icon-'], body.color-turquoise header .phone [class*='icon-'] {
+        color: #00bcd4;
+    }
+    body.color-turquoise .dropdowns-box-item > a i {
+        color: #00bcd4;
+    }
+    body.color-turquoise .dropdowns-box-item > a:after {
+        background: #44eaff !important;
+        background: -moz-linear-gradient(-45deg, #44eaff 0%, #00bcd4 100%) !important;
+        background: -webkit-linear-gradient(-45deg, #44eaff 0%, #00bcd4 100%) !important;
+        background: linear-gradient(135deg, #44eaff 0%, #00bcd4 100%) !important;
+    }
+    body.color-turquoise .dropdowns-box-item > a:hover:before, .dropdowns-box-item > a.active:before {
+        border-top-color: #00bcd4;
+    }
+    body.color-turquoise .dropdowns-box-item > a:before {
+        background-color: #00bcd4;
+    }
+    body.color-turquoise .services-nav-pills > li.active > a, body.color-turquoise .services-nav-pills > li.active > a:focus, body.color-turquoise .services-nav-pills > li.active > a:hover {
+        background: #44eaff !important;
+        background: -moz-linear-gradient(-45deg, #44eaff 0%, #00bcd4 100%) !important;
+        background: -webkit-linear-gradient(-45deg, #44eaff 0%, #00bcd4 100%) !important;
+        background: linear-gradient(135deg, #44eaff 0%, #00bcd4 100%) !important;
+        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#44eaff', endColorstr='#00bcd4', GradientType=1);
+    }
+    body.color-turquoise .services-tab-list li a span.icon {
+        color: #00bcd4;
+    }
+    body.color-turquoise .services-tab-list li.hovered a > span.icon, body.color-turquoise .services-tab-list li a:hover > span.icon {
+        background-color: #00bcd4;
+        box-shadow: 0 0 10px #00bcd4;
+    }
+    body.color-turquoise .service-tip > span [class*='icon-'] {
+        color: #00bcd4;
+    }
+    @media (min-width: 768px){
+        body.color-turquoise .service-tip:hover > span [class*='icon-'], body.color-turquoise .service-tip.hovered > span [class*='icon-'] {
+            background-color: #00bcd4;
+            box-shadow: 0 0 10px #00bcd4;
+        }
+    }
+    body.color-turquoise .step-item:hover .step-item-icon, body.color-turquoise .step-item.active .step-item-icon {
+        border-color: #00bcd4;
+    }
+    body.color-turquoise .advantages-num-number {
+        background-color: #00bcd4;
+        box-shadow: 0 0 5px #00bcd4;
+    }
+    body.color-turquoise .faq-item .panel-heading a > span.caret-toggle {
+        color: #00bcd4;
+    }
+    body.color-turquoise .faq-item .panel-heading .panel-title > a:hover {
+        color: #00bcd4;
+    }
+    body.color-turquoise .h-phone [class*='icon-'] {
+        color: #00bcd4;
+    }
+    body.color-turquoise .slick-next:hover:before, body.color-turquoise .testimonials-single-carousel-layout2 .testimonials-single:before {
+        color: #00bcd4;
+    }
+    body.color-turquoise .experience-item:hover, body.color-turquoise .experience-item.active {
+        border-color: #00bcd4;
+    }
+    body.color-turquoise .address-link [class*='icon'] {
+        color: #00bcd4;
+    }
+    body.color-turquoise .read-more-color {
+        color: #00bcd4;
+    }
+    body.color-turquoise header .phone .under-number, body.color-turquoise header .phone .number {
+        color: #00bcd4;
+    }
+    body.color-turquoise #mainSliderWrapper .scroll-bottom:hover {
+        color: #00bcd4;
+    }
+    body.color-turquoise .mfp-close-btn-in .mfp-close {
+      color: #00bcd4;
+    }
